@@ -1,7 +1,7 @@
 # Climate_Statistics
 
 This repository contains an analysis of average monthly rainfall in Melbourne, Australia, and Oxford, UK, from the year 1855 to the year 2015.
-Information regarding the data used in this analysis can be found in 'data/data-sources.txt'.
+Information regarding the data used in this analysis can be found in `data/data-sources.txt`.
 
 To run this analysis start by using the following command to combine average rainfall data from the two cities:
 ```
